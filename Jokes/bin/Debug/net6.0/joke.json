@@ -1,0 +1,19 @@
+{
+  "Error": false,
+  "Category": "Dark",
+  "Type": "twopart",
+  "joke": null,
+  "Setup": "I was walking down the street and saw some black guy on a bike and it looked just like mine so I ran home to check.",
+  "Delivery": "Thankfully he was still chained up in my basement.",
+  "Flags": {
+    "Nsfw": false,
+    "Religious": false,
+    "Political": false,
+    "Racist": true,
+    "Sexist": false,
+    "Explicit": false
+  },
+  "Safe": false,
+  "Id": 124,
+  "Lang": "en"
+}
